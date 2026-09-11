@@ -19,7 +19,9 @@ https://raw.githubusercontent.com/Yu9191/wloc/refs/heads/main/modules/wloc.sgmod
 https://raw.githubusercontent.com/Yu9191/wloc/refs/heads/main/modules/wloc.conf
 
 **Loon:**
-https://raw.githubusercontent.com/Yu9191/wloc/refs/heads/main/modules/wloc.lpx
+https://raw.githubusercontent.com/Yu9191/wloc/main/modules/wloc.lpx
+
+> Loon 插件及其图标、定位脚本和设置脚本均直接从当前 `Yu9191/wloc` 仓库加载，不再依赖原仓库。
 
 **Stash:**
 https://raw.githubusercontent.com/Yu9191/wloc/refs/heads/main/modules/wloc.stoverride
